@@ -1,0 +1,73 @@
+img {
+    position: absolute;
+}
+.img1 {
+    top: 200px;
+    left: 94px;
+}
+.img2 {
+    top: 275px;
+    left: 700px;
+}
+.img3 {
+    top: 200px;
+    left: 40px;
+    transform: rotate(60deg);
+}
+.img4 {
+    top: 110px;
+    left: 1400px
+}
+.img5 {
+    top: 1100px;
+    left: 1200px;
+    transform: rotate(-30deg);
+}
+div {
+    position: absolute;
+}
+.div1 {
+    font-size: 64px;
+    width: 517px;
+    height: 231px;
+    top: 400px;
+    left: 175px;
+    color: white;
+}
+.div2 {
+    top: 625px;
+    left: 175px;
+    color:gray;
+    width: 517px;
+    height: 231px;
+}
+header {
+    position: absolute;
+    top:250px;
+    left:175px;
+    color:white;
+    font-size: 30px
+}
+menu {
+    position: absolute;
+    top: -25px; 
+    left: 900px;
+    width: 281px;
+    height: 19px;
+    font-size: 20px;
+    color: #C1CCC7;
+}
+span {
+    color:aqua;
+}
+svg {
+    position: absolute;
+}
+.svg1 {
+    top: 500px;
+    left: 1400px;
+}
+.svg2 {
+    left: 175px;
+    top: 750px;
+}
